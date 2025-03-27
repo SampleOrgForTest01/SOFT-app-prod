@@ -1,0 +1,3 @@
+# hps-core-data-rg
+
+Azure project for creating Data management type resources...
